@@ -9,3 +9,25 @@ Welcome to Mathodology, your go-to destination for all things math! Whether you'
     gtag('js', new Date());
     gtag('config', 'YOUR_TRACKING_ID');
 </script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathodology</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        /* Header Section */
+        header {
+            
